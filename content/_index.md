@@ -1,5 +1,5 @@
 ---
-title : "Modern Hugo Starter"
+title : "amallela's foo bar"
 description: "Hugo starter helping you build modern websites."
 lead: "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
 date: 2020-04-17T12:18:10+00:00
